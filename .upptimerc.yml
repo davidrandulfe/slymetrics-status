@@ -59,4 +59,7 @@ status-website:
 
 notifications:
   - type: email
-    address: david@slymetrics.com
+    address: $NOTIFICATION_EMAIL
+  - type: slack
+    channel: $SLACK_CHANNEL_ID
+    webhookUrl: $SLACK_WEBHOOK_URL
