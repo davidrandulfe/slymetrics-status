@@ -94,17 +94,19 @@
     "url": "https://tnbsttlqzpbrfofdhhoq.supabase.co/rest/v1/",
     "icon": "https://icons.duckduckgo.com/ip3/tnbsttlqzpbrfofdhhoq.supabase.co.ico",
     "slug": "supabase-database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 534,
-    "timeDay": 549,
-    "timeWeek": 534,
-    "timeMonth": 534,
-    "timeYear": 534,
-    "dailyMinutesDown": {}
+    "time": 463,
+    "timeDay": 293,
+    "timeWeek": 463,
+    "timeMonth": 463,
+    "timeYear": 463,
+    "dailyMinutesDown": {
+      "2026-04-08": 0
+    }
   }
 ]
